@@ -2,7 +2,8 @@
 
 This is a simple **GUI-based Python application** to upload files to a specified GitHub repository. The tool allows users to provide repository details, a file path, and a commit message, and then uploads the file to GitHub.
 
-![GUI](https://github.com/user-attachments/assets/ae8dba50-24ba-4910-820d-be0a1fbb0b71)
+![gui](https://github.com/user-attachments/assets/2e822143-387b-46a8-ab1f-f1601e10d66b)
+
 
 ## Requirements
 
