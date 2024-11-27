@@ -12,30 +12,28 @@ This is a simple **GUI-based Python application** to upload files to a specified
   - `os`
  
 ## Usage
-1. Clone or download the repository containing this script.
-2. Run the script using Python:
-    python script_name.py
-3. Enter the following details in the GUI:
-- GitHub Token: Your personal access token for authentication.
-- Repository Name: The name of the repository (e.g., username/repo).
-- Branch: The branch to which the file will be uploaded (e.g., main).
-- File Path: Use the "Browse" button to select the file.
-- Commit Message: Enter a meaningful message for the commit.
-4. Click the Upload button to upload the file.
-5. Use the Exit button to close the application.
+- Clone or download the repository containing this script.
+- Run the script using Python:
+    `python script_name.py`
+- Enter the following details in the GUI:
+  - GitHub Token: Your personal access token for authentication.
+  - Repository Name: The name of the repository  `username/repo`.
+  - Branch: The branch to which the file will be uploaded `main`.
+  - File Path: Use the "Browse" button to select the file.
+  - Commit Message: Enter a meaningful message for the commit.
+- Click the Upload button to upload the file.
+- Use the Exit button to close the application.
 
 
 ## Example Workflow
-1. File Path Input:
-Select a file using the "Browse" button, and the selected file's path will be displayed in the input field.
+- File Path Input:
+  - Select a file using the "Browse" button, and the selected file's path will be displayed in the input field.
 
-2. Repository Details:
-Provide the GitHub repository details:
+- Repository Details:
+  - Repository: `username/repo_name`
+  - Branch: `main` or `master`
+- Commit Message:
+  - Add a commit message.
 
-3. Repository: username/repo_name
-Branch: main or master
-Commit Message:
-Add a commit message like Add new feature or Update script.py.
-
-4. Upload to GitHub:
-Click the Upload button to upload the file.
+- Upload to GitHub:
+  - Click the Upload button to upload the file.
